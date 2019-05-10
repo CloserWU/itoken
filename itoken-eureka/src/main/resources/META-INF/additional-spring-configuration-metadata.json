@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.config.profile",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.config.profile."
+    },
+    {
+      "name": "spring.cloud.config.label",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.config.label."
+    },
+    {
+      "name": "spring.cloud.config.name",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.config.name."
+    },
+    {
+      "name": "spring.cloud.config.uri",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.config.uri."
+    }
+  ] }

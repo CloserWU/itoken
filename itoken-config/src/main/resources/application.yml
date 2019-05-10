@@ -7,9 +7,9 @@ spring:
       server:
         git:
           uri: https://github.com/CloserWU/itoken.git
-          search-paths: itoken-config/respo
+          search-paths: /itoken-config/respo
           username: CloserWU
-          password: ws
+          password: ws995339251
   zipkin:
     base-url: http://localhost:9411
   boot:
