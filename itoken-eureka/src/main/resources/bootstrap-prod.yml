@@ -3,5 +3,5 @@ spring:
     config:
       label: master
       name: itoken-eureka
-      uri: http://localhost:8888
-      profile: dev
+      uri: http://192.168.233.131:8888
+      profile: prod
